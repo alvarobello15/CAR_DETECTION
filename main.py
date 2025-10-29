@@ -149,3 +149,4 @@ print(f"UP (abajo→arriba): {count_up}")
 print(f"DOWN (arriba→abajo): {count_down}")
 print(f"TOTAL: {count_up + count_down}")
 print("===========================")
+
